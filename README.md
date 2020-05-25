@@ -1,1 +1,1 @@
-# duka.com
+gh-pages
